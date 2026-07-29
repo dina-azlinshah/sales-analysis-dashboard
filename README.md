@@ -73,6 +73,18 @@ This project presents an interactive Power BI dashboard developed to analyse onl
 
 ---
 
+## 📂 Repository Contents
+
+| File | Description |
+|------|-------------|
+| `DASHBOARD GROUP 1.pbix` | Power BI dashboard file |
+| `DSC REPORT.pdf` | Complete project report and analysis |
+| `DASHBOARD_PAGE1.png` | Dashboard overview |
+| `DASHBOARD_PAGE2.png` | Sales performance dashboard |
+| `DASHBOARD_PAGE3.png` | Customer and revenue dashboard |
+
+---
+
 ## 💼 Skills Demonstrated
 
 - Data Cleaning
@@ -83,6 +95,12 @@ This project presents an interactive Power BI dashboard developed to analyse onl
 - Sales Performance Analysis
 - KPI Design
 - Business Insights Generation
+
+---
+
+## 📚 What I Learned
+
+This project strengthened my ability to transform raw transactional data into meaningful business insights using Power BI. It enhanced my skills in data cleaning, dashboard development, KPI selection, and presenting analytical findings through interactive visualisations for business decision making.
 
 ---
 
